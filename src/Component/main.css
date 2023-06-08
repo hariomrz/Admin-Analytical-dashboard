@@ -138,11 +138,11 @@ font-weight: bold;
   
   .direct .dot {
     width: 18px;
-height: 12px;
-left: 378px;
-top: 805px;
-background: #4CD7F6;
-border-radius: 2px;
+    height: 12px;
+    left: 378px;
+    top: 805px;
+    background: #4CD7F6;
+    border-radius: 2px;
   }
   
   .search .dot {
