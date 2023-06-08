@@ -60,7 +60,7 @@ function Dashboard(props) {
     <ListItem style={{marginTop:'-25px'}} >
             <ListItemButton  >
             <ListItemIcon>
-              <SearchIcon className='SearchIcon' style={{ fontSize: '3rem' }}/>  <span className='mt-2 ms-4 fw-bold text-dark' style={{ fontSize: '20px' }}>Consured</span>
+              <SearchIcon className='SearchIcon' style={{ fontSize: '2.5rem' }}/>  <span className='mt-2 ms-4 fw-bold text-dark' style={{ fontSize: '18px' }}>Consured</span>
               </ListItemIcon>
             </ListItemButton>
           </ListItem>
